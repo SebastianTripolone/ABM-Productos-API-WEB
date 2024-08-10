@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|c:\\users\\sebastian\\source\\repos\\abmproductoscore8\\abmproductoscore8\\abmproductoscore8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|solutionrelative:abmproductoscore8\\abmproductoscore8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|c:\\users\\sebastian\\source\\repos\\abmproductoscore8\\abmproductoscore8\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|solutionrelative:abmproductoscore8\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|c:\\users\\sebastian\\source\\repos\\abmproductoscore8\\abmproductoscore8\\models\\productoabmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|solutionrelative:abmproductoscore8\\models\\productoabmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|c:\\users\\sebastian\\source\\repos\\abmproductoscore8\\abmproductoscore8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|solutionrelative:abmproductoscore8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|c:\\users\\sebastian\\source\\repos\\abmproductoscore8\\abmproductoscore8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11AB336D-55C7-4CBA-8758-6F0646DA342C}|ABMProductosCORE8\\ABMProductosCORE8.csproj|solutionrelative:abmproductoscore8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABMProductosCORE8.http",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\ABMProductosCORE8.http",
+              "RelativeDocumentMoniker": "ABMProductosCORE8\\ABMProductosCORE8.http",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\ABMProductosCORE8.http",
+              "RelativeToolTip": "ABMProductosCORE8\\ABMProductosCORE8.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-09T22:06:15.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ABMProductosCORE8\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ABMProductosCORE8\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:07:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\appsettings.json",
+              "RelativeDocumentMoniker": "ABMProductosCORE8\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\appsettings.json",
+              "RelativeToolTip": "ABMProductosCORE8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T22:03:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoAbmContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\Models\\ProductoAbmContext.cs",
+              "RelativeDocumentMoniker": "ABMProductosCORE8\\Models\\ProductoAbmContext.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\Models\\ProductoAbmContext.cs",
+              "RelativeToolTip": "ABMProductosCORE8\\Models\\ProductoAbmContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:59:42.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\Program.cs",
+              "RelativeDocumentMoniker": "ABMProductosCORE8\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\ABMProductosCORE8\\ABMProductosCORE8\\Program.cs",
+              "RelativeToolTip": "ABMProductosCORE8\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:03:53.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

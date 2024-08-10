@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ABMProductosCORE8.props" />
+</Project>
